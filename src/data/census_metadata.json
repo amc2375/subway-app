@@ -1,0 +1,28 @@
+[{
+        "key": "DP03_0062E", "variable_name":"Median Household Income"
+    },
+    {
+        "key": "DP03_0119PE", "variable_name": "Families Whose Income is Below the Poverty Level (%)"
+    },
+    {
+        "key": "DP02_0015E", "variable_name": "Average Household Size"
+    },
+    {
+        "key": "DP02_0014PE", "variable_name": "Households with One or More People 65+ (%)"
+    },
+    {
+        "key": "DP03_0042PE", "variable_name":"Employees in Education, Health Care, or Social Assistance (%)"
+    },
+    {
+        "key": "DP05_0038PE", "variable_name":"Black Population (%)"
+    },
+    {
+        "key": "DP05_0037PE", "variable_name":"White Population (%)"
+    },
+    {
+        "key": "DP05_0044PE", "variable_name":"Asian Population (%)"
+    },
+    {
+        "key": "DP05_0071PE", "variable_name":"Latinx or Hispanic Population (%)"
+    }
+]

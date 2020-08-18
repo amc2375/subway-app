@@ -1,0 +1,19 @@
+[{
+        "key": "SE_A00001_001_y", "variable_name":"Total Population"
+    },
+    {
+        "key": "white_pct", "variable_name": "White Population %"
+    },
+    {
+        "key": "black_pct", "variable_name": "Black Population %"
+    },
+    {
+        "key": "asian_pct", "variable_name": "Asian Population %"
+    },
+    {
+        "key": "latinx_pct", "variable_name":"Latinx or Hispanic Population %"
+    },
+    {
+        "key": "poverty_pct", "variable_name":"Family Income Below Poverty Level %"
+    }
+]
